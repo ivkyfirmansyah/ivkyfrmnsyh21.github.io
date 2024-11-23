@@ -1,0 +1,14 @@
+body {
+  min-height: 2900px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #bae1fa;
+}
+#tugas {
+  background-color: #bae1fa;
+}
+
+section {
+  padding-top: 6rem;
+}
